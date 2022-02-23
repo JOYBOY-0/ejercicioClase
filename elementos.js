@@ -1,1 +1,1 @@
-Hola, me llamo H2O.
+console.log('Hola, me llamo H2O.');
